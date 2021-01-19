@@ -235,10 +235,6 @@
   box-sizing:border-box;
   width:100%;
 }
-#u947_img.mouseOver {
-}
-#u947.mouseOver {
-}
 #u947_img.mouseDown {
 }
 #u947.mouseDown {
@@ -1758,16 +1754,16 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:592px;
-  height:161px;
+  width:593px;
+  height:132px;
 }
 #u982 {
   border-width:0px;
   position:absolute;
   left:0px;
-  top:0px;
-  width:592px;
-  height:161px;
+  top:29px;
+  width:593px;
+  height:132px;
   display:flex;
 }
 #u982 .text {
@@ -1806,8 +1802,8 @@
 #u983 {
   border-width:0px;
   position:absolute;
-  left:270px;
-  top:28px;
+  left:2px;
+  top:4px;
   width:53px;
   height:18px;
   display:flex;
